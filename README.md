@@ -1,7 +1,10 @@
-# hospital-banco-de-dados
+# BANCO DE DADOS
 Exercícios para auxiliar na modelagem e manipulação de banco de dados.
 
-Estudo concentrado em:
+# SOBRE
+Inspirado no funcionamento de um hospital (médicos, pacientes, consultas, internações...) com base em dados fictícios.
+
+# TÓPICOS DO ESTUDO
 - Modelo de entidade e relacionamento.
 - Linguagem SQL.
 - Definição de dados.
