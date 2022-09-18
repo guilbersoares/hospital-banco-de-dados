@@ -1,10 +1,10 @@
-# BANCO DE DADOS
+# Banco de Dados
 Exercícios para auxiliar na modelagem e manipulação de banco de dados.
 
-# SOBRE
+# Sobre
 Inspirado no funcionamento de um hospital (médicos, pacientes, consultas, internações...) com base em dados fictícios.
 
-# TÓPICOS DO ESTUDO
+# Tópicos do estudo
 - Modelo de entidade e relacionamento.
 - Linguagem SQL.
 - Definição de dados.
