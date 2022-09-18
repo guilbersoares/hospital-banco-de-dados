@@ -1,7 +1,7 @@
 # hospital-banco-de-dados
 Exercícios para auxiliar na modelagem e manipulação de banco de dados.
 
-Pontos trabalhados:
+Estudo concentrado em:
 - Modelo de entidade e relacionamento.
 - Linguagem SQL.
 - Definição de dados.
