@@ -1,4 +1,4 @@
-# Banco de Dados
+# Banco de dados
 Exercícios para auxiliar na modelagem e manipulação de banco de dados.
 
 # Sobre
